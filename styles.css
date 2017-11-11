@@ -1,0 +1,15 @@
+.box1, .box2, .box3 {
+  background-color: #095115;
+  border-radius: 10px 20px 30px;
+  color: #FFF;
+  padding: 40px; }
+
+.box2 {
+  background-color: #2d74b2;
+  border-radius: 10px 20px; }
+
+.box3 {
+  background-color: #c2473e;
+  border-radius: 10px 20px 30px 40px; }
+
+/*# sourceMappingURL=styles.css.map */
